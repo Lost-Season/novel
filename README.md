@@ -14,6 +14,6 @@
 ![003](https://github.com/Lost-Season/novel/blob/main/pic/003.png)
 6) 如下图，利用CSS选择器转到下一章页面（如果下载的是笔趣阁的小说，不要改）
 ![004](https://github.com/Lost-Season/novel/blob/main/pic/004.png)
-7) 如下图，导出为txt文件，并重复上述操作，多少章节就填写多少次重复次数
+7) 如下图，导出为txt文件，并重复上述操作，如果不知道章节数，填一个很大的数字就行
 ![005](https://github.com/Lost-Season/novel/blob/main/pic/005.png)
 8) 最后进入文件夹内，按时间顺序排序，并且将所有文件整合为一个文件（自行百度/必应/谷歌搜索）
